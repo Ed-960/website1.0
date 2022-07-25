@@ -1,0 +1,16 @@
+.bg img {
+   width: 900px;
+}
+
+.content {
+   grid-area: c;
+   background-color: cornflowerblue;
+}
+
+.descriptionBlock img {
+   width: 200px;
+}
+
+.descriptionBlock {
+   padding: 20px;
+}
